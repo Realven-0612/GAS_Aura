@@ -1,0 +1,113 @@
+[33mcommit f93b038b00ed0ce06425aa999455b1b48acc096d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Realven-0612 <anhnhoang1@gmail.com>
+Date:   Wed Sep 10 19:26:02 2025 +0700
+
+    Aura User Widget and Widget Controller & Globe Progress Bar
+
+[33mcommit f429eaf8fb6768a33f1232db8d454bf2d867301a[m
+Author: Realven-0612 <anhnhoang1@gmail.com>
+Date:   Wed Sep 10 16:29:33 2025 +0700
+
+    Attribute Accessors & Effect Actor
+
+[33mcommit 708feb1b46d1d2c0bebfd70c1198b60b1f7ee703[m
+Author: Realven-0612 <anhnhoang1@gmail.com>
+Date:   Wed Sep 10 14:13:32 2025 +0700
+
+    Health and Mana
+
+[33mcommit 66873d0fb89de4346b7cf0ea1eb5e980c90f2c29[m
+Author: Realven-0612 <anhnhoang1@gmail.com>
+Date:   Wed Sep 10 11:27:36 2025 +0700
+
+    Replication Mode
+
+[33mcommit 4698f56ed056b02449fce73504684f271f9e8be7[m
+Author: Realven-0612 <anhnhoang1@gmail.com>
+Date:   Wed Sep 10 00:24:56 2025 +0700
+
+    Constructing the ASC and AS
+
+[33mcommit b0fe5a3893f3bc36619847dfd6e6ecc7b8c2ee85[m
+Author: Realven-0612 <anhnhoang1@gmail.com>
+Date:   Tue Sep 9 23:24:01 2025 +0700
+
+    Ability System Component andd Attribute Set
+
+[33mcommit 3ea9cebedbcb6bf360bb1236080c4be42c293c0e[m
+Author: Realven-0612 <anhnhoang1@gmail.com>
+Date:   Tue Sep 9 23:18:31 2025 +0700
+
+    The Player State
+
+[33mcommit f56c3acf825928849a1e6f7e2b0146afc3faaf78[m
+Author: Realven-0612 <anhnhoang1@gmail.com>
+Date:   Tue Sep 9 22:55:30 2025 +0700
+
+    Post Process Highlight
+
+[33mcommit b24f8d353fd21abfd8df8f54e83595efc5378a78[m
+Author: Realven-0612 <anhnhoang1@gmail.com>
+Date:   Tue Sep 9 17:46:03 2025 +0700
+
+    Highlight Enemies
+
+[33mcommit 30c20ee1c7c58e32ca8d309786d3f5d616e2ea19[m
+Author: Realven-0612 <anhnhoang1@gmail.com>
+Date:   Tue Sep 9 17:17:16 2025 +0700
+
+    Enemy Interface
+
+[33mcommit 69fa4ef79287d12443d0dcfdde9affec697f16b6[m
+Author: Realven-0612 <anhnhoang1@gmail.com>
+Date:   Mon Sep 8 22:30:21 2025 +0700
+
+    Game Mode
+
+[33mcommit 78057b2721d8b4161f00f13b8da2ac34a77c9631[m
+Author: Realven-0612 <anhnhoang1@gmail.com>
+Date:   Thu Aug 28 12:17:51 2025 +0700
+
+    Movement Input
+
+[33mcommit b02467087bc95a51b062c5a2cb9c987d87c4ed86[m
+Author: Realven-0612 <anhnhoang1@gmail.com>
+Date:   Thu Aug 28 11:38:35 2025 +0700
+
+    Aura Player Controller
+
+[33mcommit adadab4f1856a4be3c968717330bd872230e7be1[m
+Author: Realven-0612 <anhnhoang1@gmail.com>
+Date:   Thu Aug 28 11:20:33 2025 +0700
+
+    Enhanced Input
+
+[33mcommit cfa321e95822787c15b6a84429fff7622faeac9c[m
+Author: Realven-0612 <anhnhoang1@gmail.com>
+Date:   Thu Aug 28 11:02:44 2025 +0700
+
+    Animation Blueprints
+
+[33mcommit 7a4e0de181da20cd2865f12af98bfd91a8f5d50f[m
+Author: Realven-0612 <anhnhoang1@gmail.com>
+Date:   Thu Aug 28 00:09:24 2025 +0700
+
+    Character Blueprint Setup
+
+[33mcommit 2826193c010f9dbdd1e36bc374e4ac8cee71f376[m
+Author: Realven-0612 <anhnhoang1@gmail.com>
+Date:   Wed Aug 27 23:42:49 2025 +0700
+
+    Player and Enemy Characters
+
+[33mcommit e2ecfcc4cffc9b934777ce3514a0c8e1310219a8[m
+Author: Realven-0612 <anhnhoang1@gmail.com>
+Date:   Wed Aug 27 23:27:36 2025 +0700
+
+    The Base Character Class
+
+[33mcommit 530a0374d51b63901931eee4579f260693e71c5a[m
+Author: Realven-0612 <anhnhoang1@gmail.com>
+Date:   Wed Aug 27 23:08:53 2025 +0700
+
+    Initial Project Files
